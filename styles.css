@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(125, 110, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    background-color: black;
+    color: white;
+}
+.title__encabezado{
+    padding: 10px;
+    text-align: center;
+}
+
+.content{
+    width: 700px;
+    margin: 50px auto;
+    text-align: justify;
+    border: dashed ;
+    padding: 30px;
+   
+}
+
+.content__link{
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.content__parrafo{
+    color: black;
+    font-size: 14px;
+}
